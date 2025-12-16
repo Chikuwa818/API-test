@@ -5,6 +5,7 @@ API
 - 著者"福本伸行"の作品が出てきます
 
 ## ③アプリのデプロイURL
+https://chikuwa818.github.io/API-test/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - なし
@@ -13,6 +14,7 @@ API
 　①https://ndlsearch.ndl.go.jp/api/opensearch：書籍データの参照用
 　②https://ndlsearch.ndl.go.jp/thumbnail/[isbn又はJP-eコード].jpg：書影データを引っ張ってくる用
 　書影APIにけっこう登録されていないタイトルが多くて残念
+- <dcndl:genre>でジャンル指定ができそうなので、漫画に絞ったりしても面白そう
 - API仕様をかなり読み込んだ　https://ndlsearch.ndl.go.jp/file/help/api/specifications/ndlsearch_api_20250326.pdf
 
 ## ⑥難しかった点・次回トライしたいこと（又は機能）
